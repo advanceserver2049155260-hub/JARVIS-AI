@@ -1,0 +1,18 @@
+{
+  "name": "JARVIS AI Offline Assistant",
+  "short_name": "JARVIS AI",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050b14",
+  "theme_color": "#07111f",
+  "description": "Offline-first personal assistant",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
